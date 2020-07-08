@@ -1,0 +1,11 @@
+img {
+  height: 60vh;
+}
+
+table img {
+  width: 100px;
+  height: 100px;
+}
+i {
+  cursor: pointer;
+}
